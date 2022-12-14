@@ -1,0 +1,291 @@
+
+<html>
+  <head>
+    <title>ilk web sayfam <!-- Kim tutat seni --></title>
+  </head>
+  <body>
+    Merhaba Dunya
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Molestiae maiores
+      magnam in minus corrupti vitae officia consectetur praesentium, placeat
+      voluptas fuga, sit possimus eveniet laborum totam autem suscipit hic
+      fugit.
+
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae maiores
+        magnam in minus corrupti vitae officia consectetur praesentium, placeat
+        voluptas fuga, sit possimus eveniet laborum totam autem suscipit hic
+        fugit.
+    </p>
+    <a> href= "file:///C:/Users/ich/Desktop/B103_HTML_CSS/06-link.html" Linke git  </a> 
+     </body>
+</html>
+
+-----------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BASLIK TAgi</title>
+  </head>
+  <body>
+    <h1>Bilgisayarin Temel Bilesenleri</h1>
+
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia
+      dignissimos veniam ratione, facere voluptatum excepturi perspiciatis
+      velit? Vel dignissimos officia iusto obcaecati. Voluptatum modi quaerat,
+      consectetur alias quasi praesentium libero.
+    </p>
+    <h2>Donanim</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis iusto nam
+      maiores sequi nihil! Cumque sed accusantium quam odio incidunt nostrum eum
+      asperiores atque excepturi obcaecati, quaerat inventore pariatur totam!
+    </p>
+
+    <h3>Ic donanim Birimleri</h3>
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore neque,
+      excepturi corporis quam doloribus fuga accusamus sed? Sapiente non aliquam
+      neque vitae. Ab tempore enim quas id cum, in cupiditate.
+    </p>
+    <p>Cevre Birimleri</p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur non
+    dolorem soluta, obcaecati impedit quasi fugiat corporis hic quas autem ullam
+    dicta cum nesciunt quis odio. Reprehenderit molestiae repellat architecto!
+  </body>
+
+  <h2>Yazilim</h2>
+  <h3>Isletim Sistemi</h3>
+  <p>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores dolores
+    non commodi, nesciunt facilis aliquam voluptatem, nisi enim pariatur
+    consectetur suscipit sed. Autem ipsa ad ex cum aut nemo velit?
+  </p>
+  <h3>Paket Programlar</h3>
+  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere reiciendis
+  soluta neque. Dolores, sed? Consectetur nesciunt totam ea provident facere
+  consequatur, praesentium ducimus! Blanditiis laborum quaerat eveniet, eligendi
+  excepturi quas.
+ 
+</html>
+---------------------------------------------- Formation --
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bicimlendirme Taglari</title>
+  </head>
+
+  <body>
+    <p>
+     <h3> Lorem ipsum dolor <b>sit amet consectetur adipisicing elit.</h3>  </b> In autem quis aut
+      tenetur eum iste molestiae repudiandae! Impedit fugiat ipsam ipsa
+      <u>voluptate numquam reprehenderit, accusamus eligendi, exercitationem quis
+      ut animi. Molestias ducimus repellendus sunt blanditiis nihil veritatis
+      tenetur temporibus, necessitatibus architecto dolore? Aliquid libero quis
+      deleniti impedit ratione porro delectus nostrum, nihil perspiciatis,
+      recusandae minus. <em>Reprehenderit possimus totam autem aperiam! Asperiores,
+      nulla! Natus non explicabo, placeat dolorem, ab blanditiis </em>quia totam
+      ducimus consectetur consequatur asperiores nisi culpa consequuntur </u>
+      distinctio nulla facere reprehenderit dolores quae. Sit id illo
+      accusantium nobis molestias.<strong>  <i> Suscipit quo culpa iste eligendi nostrum
+      sequi animi perspiciatis, repudiandae incidunt asperiores perferendis enim
+      aliquam temporibus adipisci error. Minima odit iure eaque quo sit. Atque
+      minima soluta dignissimos illo et. Nam, cum perferendis animi aliquam
+      adipisci officia, possimus, reprehenderit reiciendis maxime ipsa </i></strong>
+      voluptates sit atque illo. Commodi aperiam, dolore sint cum neque
+      quibusdam nisi amet, incidunt, quod laudantium doloribus sequi? 
+    </p>
+  </body>
+</html>
+-------------------------------------- Tags Loops
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ic ice Taglar</title>
+  </head>
+  <body>
+    <h1>TECHPROEDUCATION OUR MISSION</h1>
+    <h3>
+      OUR MISSIONOUR MISSION
+
+      <p>
+        TechPro Education is a <mark><b> coding bootcamp founded in </b> </mark><u> <b> 2019 by a group of
+        passionate IT field experts with <strong>10 years</strong> of teaching experience. They
+        all have domain knowledge and are actively working in </b> </u>top Fortune 500
+        companies. As such, they witness industry progression first-hand and
+        update the curricula where needed, making the online it courses content
+        always relevant.
+      </p>
+
+      <hr />
+
+      <p>
+        <h3> Our Vision</h3>
+        In as little as six months,<u> <b> <i> TechPro Education Online IT Courses & Bootcamps </i> </b>   </u>
+        can equip you with the <mark> IT knowledge and skills </mark>required by the tech job market. 
+        They can help you land a tech job by guiding you with career development through
+         IT coaching and training even after you graduate.
+      </p>
+    </h3>
+  </body>
+</html>
+---------------------------------- Listing
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<ol type="A" start="3"> 
+
+<li> Trabzonspor</li>
+<li> Besiktas</li>
+<li> GS</li>
+<li> FB</li>
+
+</ol>
+
+
+ <ul type="square"> <!-- circle,disc,square  shift+alt+A ile yorum ekleyebiliyoruz   type bit ATTRIBUTE tur. yani o taga ait bir ozelliktir-->
+    <li>Istanbul</li>   <!-- ul>li*5  yazinca 5 tane listeye eklemek icin li acar -->
+    <li>Ankara</li>
+    <li>Izmir</li>
+    <li>Bursa</li>
+    <li>Adana</li>
+ </ul>
+
+<ol>
+    <li>Istanbul  
+        <ol> 
+            <li>Kartal</li>
+            <li>Kadikoy</li>
+            <li>Bahcelievler</li>
+        </ol>
+    </li>
+    <li>Ankara</li>
+    <li>Balikesir</li>
+</ol>
+
+</body>
+</html>
+------------------------------Linking -1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<h1> A Tagi Hangi Basliklarda Kullanilir?  </h1>
+<h3> Farkli Sayfaya Link Verme </h3>
+
+<a href="file:///C:/Users/ich/Desktop/B103_HTML_CSS/01-HTML/01-merhaba-dunya.html" > Merhaba dunya sayfasina git </a>
+
+</body>
+</html>
+-----------------------------------Linking -2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<h3> Faydali Linkler </h3>
+
+<ul> <!-- ul>li*3>a  -->
+    <li><a href=" "></a></li>
+    <li><a href=" "></a></li>
+    <li><a href=" "></a></li>
+</ul>
+
+
+
+</body>
+</html>
+--------------------------------Adding image 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <a href="files/pexels-bryant's-juarez-9940015.jpg"> <img src =" files/pexels-bryant's-juarez-9940015.jpg" 
+        alt=""width="40"> </a>
+
+    <img src="files/pexels-bryant's-juarez-9940015.jpg" alt="Resim1" width="100"> 
+    <img src="C:\Users\ich\Desktop\B103_HTML_CSS\files\pexels-daniel-torobekov-10498905.jpg" alt="Resim2" width="30">
+    <img src="C:\Users\ich\Desktop\B103_HTML_CSS\files\pexels-skyler-sion-10048615.jpg" alt="Resim3" width="60">
+
+    
+</body>
+</html>
+---------------------------Adding Table
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>border="1<tr>
+        <th>S.N</th>
+        <th>Adi Soyadi</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Ali Gel</td>
+    </tr>
+    <tr>
+        <td>Veli Kos</td>
+        <td></td>
+    </tr>
+
+ <table>     <!-- table>tr*3>td*2 -->
+    <tr>
+        <th></th>  <!-- elimizle degistiriyoruz -->
+        <th></th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+ </table>
+
+
+
+
+</body>
+</html>
